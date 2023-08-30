@@ -1,0 +1,56 @@
+{
+  "books": [
+    {
+      "id": 10,
+      "title": "Programação Web com Nodejs",
+      "image": "https://m.media-amazon.com/images/I/4110e7iseFL.jpg",
+      "price": 14.99,
+      "url": "https://www.amazon.com.br/Programa%C3%A7%C3%A3o-Web-com-Node-js-Front-end-ebook/dp/B074RCRKSL/ref=sr_1_2?keywords=programa%C3%A7%C3%A3o+web+com+node.js&qid=1692053560&sprefix=Programa%C3%A7%C3%A3o+web+com+no%2Caps%2C197&sr=8-2"
+    },
+    {
+      "id": 20,
+      "title": "Node.js e Microservices",
+      "image": "https://m.media-amazon.com/images/I/41CUCsnLPML.jpg",
+      "price": 14.99,
+      "url": "https://www.amazon.com.br/Node-js-Microservices-Um-Guia-Pr%C3%A1tico-ebook/dp/B075WQSDZ8/ref=sr_1_1?__mk_pt_BR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3J3HAAPOGEFBY&keywords=Nodejs+e+microservi%C3%A7os&qid=1692053509&sprefix=nodejs+e+microservi%C3%A7o%2Caps%2C215&sr=8-1"
+    },
+    {
+      "id": 30,
+      "title": "MongoDB para Iniciantes",
+      "image": "https://m.media-amazon.com/images/I/31NR3RRS3VL.jpg",
+      "price": 11.99,
+      "url": "https://www.luiztools.com.br/livro-mongodb-amazon"
+    },
+    {
+      "title": "Vade Mecum Saraiva - Tradicional - 36ª edição 2023",
+      "image": "https://m.media-amazon.com/images/I/51QR4Z0uAgL._SX357_BO1,204,203,200_.jpg",
+      "price": "34,00",
+      "url": "https://www.amazon.com.br/dp/655362402X/ref=s9_acsd_ri_bw_c2_x_1_i?pf_rd_m=A3RN7G7QC5MWSZ&pf_rd_s=merchandised-search-6&pf_rd_r=03TX844H58BB0H312BJB&pf_rd_t=101&pf_rd_p=b48b103a-7c68-46e4-8839-333f56c21a10&pf_rd_i=6740748011",
+      "id": 31
+    },
+    {
+      "title": "Construindo aplicações web do zero: Com Node JS, Express e React (Programação Essencial) ",
+      "image": "https://m.media-amazon.com/images/I/71LEpWBATXL._AC_UL400_.jpg",
+      "price": "19,90",
+      "url": "https://www.amazon.com.br/s?k=livro+programa%C3%A7%C3%A3o+web+com+node+e+express&crid=2KTOB745V9WYO&sprefix=livro+node%2Caps%2C203&ref=nb_sb_ss_ts-doa-p_3_10",
+      "id": 32
+    },
+    {
+      "title": "Construindo aplicações web do zero: Com Node JS, Express e React (Programação Essencial) ",
+      "image": "https://m.media-amazon.com/images/I/31-YxeJ4ixL.jpg",
+      "price": "49,90",
+      "url": "https://www.amazon.com.br/Primeiros-passos-Node-js-Jo%C3%A3o-Rubens-ebook/dp/B073HJPDXC/ref=sr_1_5?crid=2KTOB745V9WYO&keywords=livro+programa%C3%A7%C3%A3o+web+com+node+express&qid=1692311725&sprefix=livro+node%2Caps%2C203&sr=8-5",
+      "id": 33
+    },
+    {
+      "title": "1",
+      "image": "",
+      "price": 0,
+      "url": "",
+      "id": 34
+    }
+  ],
+  "revistas": [
+    {}
+  ]
+}

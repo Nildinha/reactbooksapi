@@ -1,0 +1,62 @@
+.listaSearchInput {
+    display: flex;
+    height: 42px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    width: 80%;
+    margin-bottom: 20px;
+    padding: 0 10px;
+    font-size: 16px;
+   
+
+
+} 
+
+.booksFormGroup {
+    display: flex;
+    height: 42px;
+    border: 1px solid #ccc;
+    border-radius: 20px;
+    width: 80%;
+    margin-bottom: 20px;
+    padding: 0 10px;
+    font-size: 16px;
+    
+    
+    
+}
+
+.Lista {
+    display: inline-block;
+    margin-bottom: 20px;
+    font-weight: 400;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 2px solid transparent;
+    font-size: 14px;
+    padding: 10px 15px;
+    color: #fff;
+    background-color: #14d214;
+    border-color: #9cec6d;
+    border-radius: 20px;
+    float: right;
+    margin-top: -60px;
+    margin-right: 80px;
+  
+      
+}
+.booksFormGroup{
+      
+    width: 150px;
+    display: flex;
+    height: 42px;
+    border-radius: 20px;
+    width: 80%;
+    margin-bottom: 20px;
+    padding: 0 10px;
+    font-size: 16px;
+   
+  
+}
